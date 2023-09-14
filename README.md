@@ -20,9 +20,7 @@ https://club-manager-ashen.vercel.app/
 - **Front-end:** HTML, CSS, JavaScript (React framework)
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** 
 - **API Integration:** Integration with external APIs (e.g., for club suggestions based on user input)
-- **Deployment:** https://club-manger.vercel.app/
   
 ## Architecture Diagram:
 ![Flow](https://github.com/Krishna47ak/Team-Frost-Club-Manager/assets/107978867/60bb8061-ff9f-4170-9f29-3fe9904d4e21)
